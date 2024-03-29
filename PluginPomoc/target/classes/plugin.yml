@@ -1,0 +1,6 @@
+name: PluginPomoc
+version: '1.0-SNAPSHOT'
+main: klocunie.com.pluginpomoc.PluginPomoc
+api-version: '1.20'
+commands:
+ pomoc:
